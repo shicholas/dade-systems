@@ -1,0 +1,3 @@
+inference_api/uploads/*.png
+inference_api/uploads/*.jpg
+inference_api/uploads/*.jpeg
